@@ -19,7 +19,7 @@
 }
 
 #app-mount .spoilerText-3p6IlD {
-    background-color: rgba(255, 255, 255, 0.15);
+    background-color: #ffffff26;
 }
 
 /* Colored User Connections */
@@ -251,4 +251,51 @@ html.theme-light #app-mount::after {
     top: 5px;
     left: 25px;
     width: 135px;
+}
+
+/* Bullshit */
+.root-1BQpZw,
+.container-2lgZY8,
+.channels-Ie2l6A,
+.container-PNkimc,
+.wrapper-1Rf91z,
+.title-3qD0b-,
+.headerBar-UHpsPw,
+.channels-wrap,
+.channels-wrap > div,
+.chat-3bRxxu,
+.chat-3bRxxu > .title-wrap,
+.chat-3bRxxu > .content-yTz4x3,
+.channel-members,
+.members-1998pB,
+.messagesWrapper-3lZDfY,
+.activityFeed-28jde9,
+.card-7JP0BX,
+.chat-3bRxxu form,
+.chat-3bRxxu form *[class*="typing-"],
+.privateChannels-1nO12o,
+.privateChannels-1nO12o .searchBar-2_Yu-C,
+.container-3gCOGc,
+.messageGroupBlockedBtn-1PBBh-,
+div[class*="noChannel-"],
+.gameLibrary-TTDw4Y,
+.gameLibrary-TTDw4Y .header-39GIC8,
+.gameUpdates-2GPqBU,
+.applicationStore-1pNvnv,
+.expandedFolderBackground-2sPsd-,
+.panels-j1Uci_,
+.messages-3amgkR,
+.sidebar-2K8pFh,
+.scroller-2TZvBN,
+.scroller-1JbKMe,
+.friendsTableBody-1ZhKif,
+.container-1r6BKw.themed-ANHk51,
+.scroller-1IIF0A,
+.activityFeed-1C0EmJ,
+.inner-zqa7da,
+.container-1D34oG,
+.container-1r6BKw,
+.nowPlayingColumn-2sl4cE,
+.peopleList-2VBrVI {
+  background-color: #090909;
 }
